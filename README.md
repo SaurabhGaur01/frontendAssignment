@@ -5,11 +5,10 @@ This application will allow user to -
 a) View data on Table & Chart.
 b) Provide user filter to give user options to change input
 
-This application is using webpack configuration for making an API call ('http://localhost:3000/api/cones') to get results.
+This application is using webpack configuration for making an API call (http://localhost:3000/api/cones) to get results.
 
 This application utilises - React, Redux, Thunk, Jest & Enzyme Testing and Material UI.
 
-Click on [Demo](https://saurabhgaur01.github.io/frontendAssignment/) for quick view.
 ## Installation & Usage
 
 Use the package manager [Node and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to run this project on your local. After installing, run below command to install all dependencies-
