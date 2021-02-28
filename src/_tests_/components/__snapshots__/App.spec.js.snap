@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component should render correctly 1`] = `
+<Fragment>
+  <TabHeader
+    handleChange={[Function]}
+    value={0}
+  />
+  <TabPanel
+    index={0}
+    value={0}
+  >
+    <Connect(TableComponent) />
+  </TabPanel>
+  <TabPanel
+    index={1}
+    value={0}
+  >
+    <Connect(Chart) />
+  </TabPanel>
+</Fragment>
+`;

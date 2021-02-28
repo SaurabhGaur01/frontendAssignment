@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`initialSum Duck Tests Action Generator setInitialSum should match the snapshot 1`] = `
+Object {
+  "type": "modules/app/SET_INITIAL_SUM",
+  "value": "mockValue",
+}
+`;

@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`monthlySum Duck Tests Action Generator setMonthlySum should match the snapshot 1`] = `
+Object {
+  "type": "modules/app/SET_MONTHLY_SUM",
+  "value": "mockValue",
+}
+`;

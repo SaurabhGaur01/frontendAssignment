@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MonthlySum Component should render correctly 1`] = `
+<div>
+  Monthly Sum:
+  <input
+    className="makeStyles-inputWidth-1"
+    defaultValue={100}
+    id="monthlySum"
+    name="monthlySum"
+    onChange={[Function]}
+    type="text"
+  />
+</div>
+`;

@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`conesData Duck Tests Action Generator setConesData should match the snapshot 1`] = `
+Object {
+  "data": Array [
+    Object {
+      "mockVariable": "mockValue",
+    },
+  ],
+  "type": "modules/app/SET_CONES_DATA",
+}
+`;

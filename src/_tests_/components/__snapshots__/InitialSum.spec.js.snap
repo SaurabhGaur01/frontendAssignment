@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InitialSum Component should render correctly 1`] = `
+<div>
+  Initial Sum:
+  <input
+    className="makeStyles-inputWidth-1"
+    defaultValue={100}
+    id="initialSum"
+    name="initialSum"
+    onChange={[Function]}
+    type="text"
+  />
+</div>
+`;
